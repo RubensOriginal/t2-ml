@@ -1,1 +1,2 @@
-https://www.kaggle.com/datasets/imsparsh/flowers-dataset/code
+Referência: https://www.kaggle.com/datasets/imsparsh/flowers-dataset/code
+Dataset já separado (Utilizar esse): https://drive.google.com/file/d/151Hso8u1diE6gvWdD5Gzdm-cgtdxUkLK/view?usp=sharing
